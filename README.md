@@ -84,5 +84,7 @@ A modern, responsive web app for quickly calculating proportions. Features autom
 
 ---
 
-Open issues, request features, and help improve the project!  
+## 📣 Feedback & Contributions
+
+Open issues, request features, and help improve the project! 
 All contributions and suggestions warmly welcomed.
