@@ -7,3 +7,14 @@
 [![MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit)
 [![Donate](https://img.shields.io/badge/PayPal-Donate%20to%20Author-blue.svg)](http://paypal.me/R0mb0)
 
+A modern, responsive web app for quickly calculating proportions. Features automatic light/dark theme, multilingual support (Italian/English), animated error handling, operation history, and a polished user interface. 
+
+<div align="center">
+
+## [👉 Click here to test the page! 👈](https://r0mb0.github.io/Proportion_Calculator_WebApp/)
+
+[![example](https://github.com/R0mb0/Proportion_Calculator_WebApp/blob/main/Readme_Imgs/Example.png?raw=true)](https://r0mb0.github.io/Proportion_Calculator_WebApp/)
+
+</div>
+
+---
